@@ -1,6 +1,7 @@
 # Lista1Fundamentos
 Primeira lista de exercícios de Algoritimos e programação (Fundamentos da programação)
-#Licensa
+
+##Licensa
 MIT License
 
 Copyright (c) 2023 Guilherme Henrique Ninov
